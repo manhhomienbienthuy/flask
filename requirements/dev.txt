@@ -140,7 +140,7 @@ tomli==2.0.0
     # via
     #   mypy
     #   pep517
-tox==3.24.4
+tox==3.24.5
     # via -r requirements/dev.in
 types-contextvars==2.4.0
     # via -r requirements/typing.in
